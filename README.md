@@ -122,6 +122,24 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+Copyright (c) [2023] [Alexey Fedotov].
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the
+of this software and associated documentation files ("Futher of purity"), to operate
+with the Software without restriction, including without limitation the right to
+use, copy, modify, merge, publish, distribute, sublicense and/or sell
+copies of the Software and to permit persons to whom the Software is furnished to
+to do so subject to the following conditions:
+
+The above copyright notice and this permission notice must be included in all
+copies or substantial portions of the Software.
+
+The SOFTWARE is provided "AS IS" WITHOUT WARRANTY OF ANY kind, express or implied, including but not limited to.
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT
+AUTHORS OR OWNERS ARE NOT LIABLE FOR ANY PRETENTIAL, DAMAGE OR OTHER
+LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING OUT OF,
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER PERFORMANCE OF THE
+Software.
 
 ---
